@@ -1,0 +1,35 @@
+2022-12-20T10:06:51+00:00 DEBUG POST: https://ads.tiktok.com/marketing_api/api/developer/app/create_auto_approve/
+
+{"business_platform":"PROD","smb_id":"tt4b_woocommerce_63a1893b576dehttpslea-duboisstudents-laplateformeiomycmswordpresswp-admin","smb_name":"PROD","redirect_url":"https:\/\/lea-dubois.students-laplateforme.io\/mycms\/wordpress\/wp-admin\/"}
+ ajax: DOING_AJAX
+2022-12-20T10:06:56+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+
+2022-12-20T10:07:01+00:00 ERROR Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+http_request_failed: cURL error 28: Operation timed out after 5000 milliseconds with 0 out of -1 bytes received
+
+2022-12-20T10:07:01+00:00 DEBUG Tt4b_Mapi_Class::create_open_source_app: Response: 
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: application/json
+X-Tt-Logid: 202212201007005D6536A2F83DD7283364,202212201007005D6536A2F83DD7283364
+x-tt-trace-host: 01df97355b2d681d71126021d48b88672271d23d94eaec459f510d19040480aef5f613ca68be258e8495cfa983b16c84d1b010f790e998c1e77a5bfee9a3043930638dde0911961ce798e55de9b7e985ef0e0456505c663b4b228223f309e42fcc0e230277a6471c6bd135d97eec186710
+Content-Encoding: gzip
+Content-Length: 229
+X-Origin-Response-Time: 119,23.44.5.110
+X-Akamai-Request-ID: 3a141259.71b5ba3e
+Date: Tue, 20 Dec 2022 10:07:01 GMT
+X-Cache: TCP_MISS from a23-213-160-212.deploy.akamaitechnologies.com (AkamaiGHost/10.10.3-45298580) (-)
+Connection: close
+Vary: Accept-Encoding
+X-Cache-Remote: TCP_MISS from a23-44-5-110.deploy.akamaitechnologies.com (AkamaiGHost/10.10.3-45298580) (-)
+x-tt-trace-tag: id=16;cdn-cache=miss;type=dyn
+Server-Timing: cdn-cache; desc=MISS, edge; dur=208, origin; dur=119
+Server-Timing: inner; dur=114
+X-Parent-Response-Time: 318,23.213.160.212
+
+{"code":0,"msg":"ok","data":{"redirect_uri":"https:\/\/lea-dubois.students-laplateforme.io\/mycms\/wordpress\/wp-admin\/","app_id":"7179170169934053378","external_data_key":"c5c63444-ef05-410e-bbbe-d77ee63fcedb","app_secret":"9f40ed7f5618bc206a4b05332be5749ad9a235b5"}}
+

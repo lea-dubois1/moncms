@@ -1,0 +1,122 @@
+2022-12-22T09:40:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-compat/lib/locales.php à la ligne 641
+
+2022-12-22T13:15:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/rest-api/endpoints/class-wp-rest-controller.php à la ligne 398
+
+2022-12-22T13:19:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T13:19:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T13:19:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T13:20:48+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/google-listings-and-ads/src/API/Site/Controllers/AttributeMapping/AttributeMappingDataController.php à la ligne 81
+
+2022-12-22T13:21:59+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/google-listings-and-ads/src/API/Site/Controllers/AttributeMapping/AttributeMappingDataController.php à la ligne 81
+
+2022-12-22T13:25:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T13:27:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T13:28:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T13:28:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T13:30:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:01:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:03:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/plugin.php à la ligne 177
+
+2022-12-22T14:03:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:03:45+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:03:59+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:04:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/plugin.php à la ligne 177
+
+2022-12-22T14:09:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:15:39+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:16:39+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:22:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:39:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/google-listings-and-ads/src/API/Site/Controllers/AttributeMapping/AttributeMappingRulesController.php à la ligne 1
+
+2022-12-22T14:40:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:40:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:40:08+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:40:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:40:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:40:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/google-listings-and-ads/src/DB/Query/ShippingRateQuery.php à la ligne 1
+
+2022-12-22T14:41:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version1/class-wc-rest-products-v1-controller.php à la ligne 2018
+
+2022-12-22T14:41:31+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:41:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:42:17+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:42:22+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:42:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:42:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:42:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:43:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:43:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:43:08+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:43:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:43:17+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:53:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/google-listings-and-ads/src/API/Site/Controllers/AttributeMapping/AttributeMappingSyncerController.php à la ligne 1
+
+2022-12-22T14:53:52+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:54:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:54:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:54:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+
+2022-12-22T14:54:27+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 61440 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:55:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:55:55+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 94208 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T14:56:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/google-listings-and-ads/src/API/Site/Controllers/TourController.php à la ligne 1
+
+2022-12-22T15:00:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 356
+
+2022-12-22T15:00:39+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 212
+
+2022-12-22T15:00:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 212
+
+2022-12-22T15:00:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 356
+
+2022-12-22T15:01:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 356
+
+2022-12-22T15:01:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/plugin.php à la ligne 177
+
+2022-12-22T15:01:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 24576 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/jetpack/vendor/jetpack-autoloader/class-php-autoloader.php à la ligne 90
+
+2022-12-22T15:02:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 356
+
+2022-12-22T15:05:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/google-listings-and-ads/src/API/Site/Controllers/TourController.php à la ligne 1
+
+2022-12-22T15:06:00+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-system-status-tools-v2-controller.php à la ligne 1
+

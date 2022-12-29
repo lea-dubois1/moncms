@@ -1,0 +1,4 @@
+2022-12-27T02:31:49+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/Requests/Transport/cURL.php à la ligne 165
+
+2022-12-27T02:41:22+00:00 CRITICAL Maximum execution time of 30 seconds exceeded dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/Requests/Transport/cURL.php à la ligne 165
+

@@ -1,0 +1,32 @@
+2022-12-21T12:12:44+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-admin/includes/class-wp-upgrader-skin.php:140
+Stack trace:
+#0 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-admin/includes/class-wp-upgrader.php(189): WP_Upgrader_Skin->request_filesystem_credentials()
+#1 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-admin/includes/class-language-pack-upgrader.php(206): WP_Upgrader->fs_connect()
+#2 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/mailpoet/lib/Config/Localizer.php(53): Language_Pack_Upgrader->bulk_upgrade()
+#3 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/mailpoet/lib/Config/Activator.php(87): MailPoet\Config\Localizer->forceInstallLanguagePacks()
+#4 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/mailpoet/lib/Config/Activator.php(60): MailPoet\Config\Activator->processActivate()
+#5 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/mailpoet/lib/Config/Initializer.php(334): MailPoet\Config\Activator->activate()
+#6 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/mailpoet/lib/Config/Initializer.php(291): MailPoet\Config\Initializer->maybeDbUpdate()
+#7 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/class-wp-hook.php(308): MailPoet\Config\Initializer->initialize()
+#8 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/class-wp-hook.php(332): WP_Hook->apply_filters()
+#9 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/plugin.php(517): WP_Hook->do_action()
+#10 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-settings.php(617): do_action()
+#11 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-config.php(76): require_once('...')
+#12 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-load.php(50): require_once('...')
+#13 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-blog-header.php(13): require_once('...')
+#14 /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/index.php(17): require('...')
+#15 {main}
+  thrown dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-admin/includes/class-wp-upgrader-skin.php à la ligne 140
+
+2022-12-21T12:19:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/rest-api/class-wp-rest-server.php à la ligne 906
+
+2022-12-21T14:02:33+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-payment-gateways-v2-controller.php à la ligne 317
+
+2022-12-21T14:48:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 81920 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-includes/plugin.php à la ligne 177
+
+2022-12-21T14:54:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-payment-gateways-v2-controller.php à la ligne 317
+
+2022-12-21T14:54:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version3/class-wc-rest-customer-downloads-controller.php à la ligne 1
+
+2022-12-21T15:02:37+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans /home/storage/vhosts/lea-dubois.students-laplateforme.io/httpdocs/mycms/wordpress/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-payment-gateways-v2-controller.php à la ligne 317
+
